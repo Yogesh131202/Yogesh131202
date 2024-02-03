@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogesh131202
-- 👀 I’m interested in App development,data science 
+- 👀 I’m interested in full stack development,data science 
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on TECH COMPANY 
 - 📫 How to reach me Via call 9021869464
